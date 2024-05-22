@@ -12,27 +12,27 @@ const chalk = require('chalk')
 
 //owmner v card
 global.ytname = "YT: Fraszz" //ur yt chanel name
-global.socialm = "GitHub: Fraszz" //ur github or insta name
+global.socialm = "GitHub: Linkiddrak" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Fraszz Bot MD V13' //ur bot Name
-global.ownernumber = '628981609354' //ur owner number
-global.ownername = 'Fraszz' //ur owner name
+global.botname = 'Raizen Bot MD V13' //ur bot Name
+global.ownernumber = '22871255034' //ur owner number
+global.ownername = 'Raizen' //ur owner name
 global.websitex = "https://www.youtube.com/@FraszHost"
 global.wagc = "https://chat.whatsapp.com/GFrGhFd83gzItxS7T7d3Ci"
-global.themeemoji = '🪀'
-global.wm = "Fraszz Bot Inc."
+global.themeemoji = '❄️'
+global.wm = "Darki Bot Inc."
 global.botscript = 'https://github.com/Fraszz/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Fraszz\n\n+628981609354"
-global.creator = "628981609354@s.whatsapp.net"
+global.author = "❄️Raizen"
+global.creator = "22871255034@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["628981609354"] // Premium User
+global.premium = ["22871255034"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v12' // menu type 'v1' => 'v12'
+global.typemenu = 'v1' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
